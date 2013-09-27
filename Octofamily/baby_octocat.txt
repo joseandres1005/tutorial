@@ -1,3 +1,0 @@
-<?php
-echo('baby_octocat 3');
-?>

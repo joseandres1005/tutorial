@@ -1,3 +1,0 @@
-<?php
-echo('primer linea del primer proyecto 3');
-?>
